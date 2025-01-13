@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **waleednaeem133@gmail.com**
 
-- 📄 Know about my experiences [cv.waleed.pdf](cv.waleed.pdf)
+- 📄 Know about my experiences [(cv.waleed.pdf)](https://github.com/W-N-R/W-N-R/blob/main/CV%20WALEED_pages-to-jpg-0001.jpg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
