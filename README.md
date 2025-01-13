@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MUHAMMAD WALEED</h1>
 <h3 align="center">A passionate developer from PAKISTAN</h3>
-<img src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-1,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" width="40%">
+<img src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-638053,resizemode-1,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg" width="100%">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=w-n-r&label=Profile%20views&color=0e75b6&style=flat" alt="w-n-r" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=w-n-r" alt="w-n-r" /></a> </p>
