@@ -83,7 +83,7 @@ The journey undertaken in this field is fueled by an unwavering commitment to in
   <img src="https://th.bing.com/th/id/R.f267279f5acfa0e9496ca0afe5b70385?rik=%2fcbG3OWGpXeyKQ&pid=ImgRaw&r=0" height="70" alt="csharp logo"  />
   <img src="https://i.pinimg.com/originals/ea/27/eb/ea27eb4a6229bfa4fa24cee2e9547c01.png" height="70" alt="csharp logo"  />
   <img src="https://th.bing.com/th/id/R.26be477e172b3fb46a32bd0ea83b199c?rik=WQJ6toOYBr9D6A&pid=ImgRaw&r=0" height="70" alt="csharp logo"  />
-  <img src="https://th.bing.com/th/id/OIP.Hm4d-RiAj0WkixWKE1aj8wHaHa?rs=1&pid=ImgDetMain" height="70" alt="csharp logo"  />
+  <img src="https://th.bing.com/th/id/R.363b1daf23f2519c75f703b8e0a1b34c?rik=JTOUhk8TWOIs%2fQ&pid=ImgRaw&r=0" height="70" alt="csharp logo"  />
 
 
 
