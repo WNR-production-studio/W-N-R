@@ -1,12 +1,16 @@
 <img src="man-celebrating-new-year-s-eve (2).jpg" style="display: block; margin: auto;" />
 <h1 align="center">Hi 👋, I'm MUHAMMAD WALEED</h1>
 <h2 align="center">An Ardent | Innovative Developer | Proudly Representing PAKISTAN 🇵🇰.</h2>
+
+<img align="right" height="150" src="https://github.com/user-attachments/assets/b5791886-6dc6-4a53-816c-f0b6e8ff4e64"  />
+
+<div align = "left">
 🚀 An innovative and visionary Electrical Engineer whose expertise encompasses robotics, front-end web development, graphic design, video editing, and 3D modeling using Blender 🌀. At the helm of WNR Production Studio, a production house renowned for its creativity and innovation, exceptional logo designs are meticulously crafted through the use of Photoshop 🎨 and Adobe Illustrator ✒️. These logos are developed with precision to establish unique brand identities and captivate audiences.
 
 Proficiency has been acquired in programming languages such as C ⚙️, C++ 🖥️, HTML 🌐, CSS 🎨, and JavaScript 📜 through diligent practice and application. Additionally, tools like Arduino IDE ⚡ and VS Code 💻 are utilized to deliver innovative solutions. Expertise has also been developed in leveraging Microsoft 365 tools, including Excel 📊, Word 📝, PowerPoint 📑, Teams 💬, and Office 🖥️, to create professional and impactful presentations that effectively communicate complex ideas.
 
 The journey undertaken in this field is fueled by an unwavering commitment to integrating creativity with technical proficiency. A strong emphasis is placed on delivering innovative solutions and transformative designs that inspire progress and leave a meaningful impact. With every project, the aim is to exceed expectations and contribute positively to both the professional and creative landscapes.
-
+</div>
 ****************************************************************
 
 ###
@@ -21,7 +25,8 @@ The journey undertaken in this field is fueled by an unwavering commitment to in
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=w-n-r&label=Profile%20views&color=0c225e&style="color=linear-gradient(45deg, #ff6f61, #de1738) height="60" alt="w-n-r" /> </p>
 
-<p align="center"> <a href="CV WALEED_pages-to-jpg-0001.jpg" target="blank"><img  src="https://4.bp.blogspot.com/-GpBiJ27q95s/VxnMzuS6wgI/AAAAAAAAADo/eLiQlpI7WqolNrLpg3W9emojUIO8fHN8ACLcB/s1600/green-resume-logo.png" height="260" alt="wnr"  /></a></p>
+<h2>To view My Resume Click below:</h2>
+<p align="left"> <a href="CV WALEED_pages-to-jpg-0001.jpg" target="blank"><img  src="https://github.com/user-attachments/assets/7df45925-2969-490b-819d-cab68f41ea92" height="180" alt="wnr"  /></a></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-w-n-r-trophy"><img src="https://github-profile-trophy.vercel.app/?username=w-n-r&theme=algolia" width="80%" alt="w-n-r" /></a> </p>
 
