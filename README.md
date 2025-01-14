@@ -7,7 +7,7 @@ Proficiency has been acquired in programming languages such as C ⚙️, C++ �
 
 The journey undertaken in this field is fueled by an unwavering commitment to integrating creativity with technical proficiency. A strong emphasis is placed on delivering innovative solutions and transformative designs that inspire progress and leave a meaningful impact. With every project, the aim is to exceed expectations and contribute positively to both the professional and creative landscapes.
 
-
+****************************************************************
 
 ###
 
@@ -46,6 +46,7 @@ The journey undertaken in this field is fueled by an unwavering commitment to in
 
 - 📄 Know about my experiences [(cv.waleed.pdf)](https://github.com/W-N-R/W-N-R/blob/main/CV%20WALEED_pages-to-jpg-0001.jpg)
 
+*************
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/waleed naeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="waleed naeem" height="30" width="40" /></a>
