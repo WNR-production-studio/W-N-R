@@ -27,6 +27,10 @@ That's it.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=w-n-r&label=Profile%20views&color=0c225e&style="color=linear-gradient(45deg, #ff6f61, #de1738) height="60" alt="w-n-r" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-w-n-r-trophy"><img src="https://github-profile-trophy.vercel.app/?username=w-n-r&theme=algolia" width="100%" alt="w-n-r" /></a> </p>
+<br>
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=w-n-r" alt="w-n-r" /></p>
+</div>
 <h2>To view My Resume Click below:</h2>
 <p align="left"> <a href="CV WALEED_pages-to-jpg-0001.jpg" target="blank"><img  src="https://github.com/user-attachments/assets/7df45925-2969-490b-819d-cab68f41ea92" height="180" alt="wnr"  /></a></p>
 This cv shows a little bit about my skills and hobbies.
@@ -116,7 +120,4 @@ This cv shows a little bit about my skills and hobbies.
 <img src="https://logodownload.org/wp-content/uploads/2018/05/autodesk-logo-8.png" height="40" alt="csharp logo"  />
   <img src="https://logodownload.org/wp-content/uploads/2018/05/autocad-logo.png" height="40" alt="csharp logo"  />
 </a> </p>
-<br>
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=w-n-r" alt="w-n-r" /></p>
-</div>
+
