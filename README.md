@@ -18,11 +18,11 @@ That's it.
 ###
 
 <div align="center">
-
+<img src="https://github-readme-stats.vercel.app/api?username=w-n-r&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=W-N-R&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="130" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=W-N-R&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
+  
 
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=W-N-R&label=Profile%20views&color=0c225e&style="color=linear-gradient(45deg, #ff6f61, #de1738) height="60" alt="w-n-r" /> </p>
