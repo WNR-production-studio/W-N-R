@@ -11,7 +11,9 @@ Proficiency has been acquired in programming languages such as C ⚙️, C++ �
 
 The journey undertaken in this field is fueled by an unwavering commitment to integrating creativity with technical proficiency. A strong emphasis is placed on delivering innovative solutions and transformative designs that inspire progress and leave a meaningful impact. With every project, the aim is to exceed expectations and contribute positively to both the professional and creative landscapes.
 </div>
-___________________________________________________________________________________________________
+
+That's it.
+**************
 
 ###
 
@@ -24,11 +26,11 @@ ________________________________________________________________________________
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=w-n-r&label=Profile%20views&color=0c225e&style="color=linear-gradient(45deg, #ff6f61, #de1738) height="60" alt="w-n-r" /> </p>
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-w-n-r-trophy"><img src="https://github-profile-trophy.vercel.app/?username=w-n-r&theme=algolia" width="100%" alt="w-n-r" /></a> </p>
 <h2>To view My Resume Click below:</h2>
 <p align="left"> <a href="CV WALEED_pages-to-jpg-0001.jpg" target="blank"><img  src="https://github.com/user-attachments/assets/7df45925-2969-490b-819d-cab68f41ea92" height="180" alt="wnr"  /></a></p>
+This cv shows a little bit about my skills and hobbies.
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-w-n-r-trophy"><img src="https://github-profile-trophy.vercel.app/?username=w-n-r&theme=algolia" width="80%" alt="w-n-r" /></a> </p>
 
 <p align="left"> <a href="https://www.instagram.com/w.n.r._.wali._.01/" target="blank"><img src="https://img.shields.io/twitter/follow/waleed naeem?logo=twitter&style=for-the-badge" width="300px" alt="waleed naeem" /></a> </p>
 
@@ -45,12 +47,12 @@ ________________________________________________________________________________
 - 📄 Know about my experiences [(cv.waleed.pdf)](https://github.com/W-N-R/W-N-R/blob/main/CV%20WALEED_pages-to-jpg-0001.jpg)
 
 *************
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">Connect with me:</h1>
 <p align="left">
-<a href="https://twitter.com/waleed naeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="waleed naeem" height="30" width="40" /></a>
-<a href="https://www.facebook.com/waleed.naeem.5682" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="waleed naeem" height="30" width="40" /></a>
-<a href="https://instagram.com/w.n.r._.wali._.01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="w.n.r._.wali._.01/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@w.n.r._.wali._.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wnr" height="30" width="40" /></a>
+<a href="https://twitter.com/waleed naeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="waleed naeem" height="70"  /></a>
+<a href="https://www.facebook.com/waleed.naeem.5682" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="waleed naeem" height="70"  /></a>
+<a href="https://instagram.com/w.n.r._.wali._.01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="w.n.r._.wali._.01/" height="70"  /></a>
+<a href="https://www.youtube.com/@w.n.r._.wali._.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wnr" height="70"  /></a>
 </p>
 
 <h1 align="left">Languages and Tools:</h1>
