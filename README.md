@@ -32,13 +32,14 @@ That's it.
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=w-n-r" alt="w-n-r" /></p>
 </div>
-<h2>To view My Resume Click below:</h2>
+<p align="left"><h2>To view My Resume Click below:</h2></p>
 <p align="left"> <a href="CV WALEED_pages-to-jpg-0001.jpg" target="blank"><img  src="https://github.com/user-attachments/assets/7df45925-2969-490b-819d-cab68f41ea92" height="180" alt="wnr"  /></a></p>
-This cv shows a little bit about my skills and hobbies.
+<p align="left">This cv shows a little bit about my skills and hobbies.</p>
 
 
 <p align="left"> <a href="https://www.instagram.com/w.n.r._.wali._.01/" target="blank"><img src="https://img.shields.io/twitter/follow/waleed naeem?logo=twitter&style=for-the-badge" width="300px" alt="waleed naeem" /></a> </p>
 
+<div align="left">
 - 🔭 I’m currently working on **Web development & C++**
 
 - 🌱 I’m currently learning **HTML, CSS, JAVA, C++, PYTHON, PHOTOSHOP, CANVA, CAPCUT, ADOBE ILLUSTRATER, BLENDER**
@@ -50,8 +51,8 @@ This cv shows a little bit about my skills and hobbies.
 - 📫 How to reach me **waleednaeem133@gmail.com**
 
 - 📄 Know about my experiences [(cv.waleed.pdf)](https://github.com/W-N-R/W-N-R/blob/main/CV%20WALEED_pages-to-jpg-0001.jpg)
+</div>
 
-*************
 <h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href="https://twitter.com/waleed naeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="waleed naeem" height="70"  /></a>
