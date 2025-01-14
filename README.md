@@ -79,7 +79,7 @@ The journey undertaken in this field is fueled by an unwavering commitment to in
   <img width="12" />
   <img src="https://th.bing.com/th/id/OIP.tJvnLp5p6wuf7my9Kop3AQHaHa?rs=1&pid=ImgDetMain" height="70" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://th.bing.com/th/id/R.5b13a4dc2c5ba155aed37b6199648477?rik=Nwgltn4%2fyugB3g&pid=ImgRaw&r=0" height="70" alt="csharp logo"  />
+  <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo.png" height="70" alt="csharp logo"  />
   <img src="https://th.bing.com/th/id/R.f267279f5acfa0e9496ca0afe5b70385?rik=%2fcbG3OWGpXeyKQ&pid=ImgRaw&r=0" height="70" alt="csharp logo"  />
   <img src="https://i.pinimg.com/originals/ea/27/eb/ea27eb4a6229bfa4fa24cee2e9547c01.png" height="70" alt="csharp logo"  />
   <img src="https://th.bing.com/th/id/R.26be477e172b3fb46a32bd0ea83b199c?rik=WQJ6toOYBr9D6A&pid=ImgRaw&r=0" height="70" alt="csharp logo"  />
