@@ -31,7 +31,7 @@ The journey undertaken in this field is fueled by an unwavering commitment to in
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=w-n-r" alt="w-n-r" /></a> </p>
 
-<p align="left"> <a href="https://www.instagram.com/w.n.r._.wali._.01/" target="blank"><img src="https://img.shields.io/twitter/follow/waleed naeem?logo=twitter&style=for-the-badge" alt="waleed naeem" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/w.n.r._.wali._.01/" target="blank"><img src="https://img.shields.io/twitter/follow/waleed naeem?logo=twitter&style=for-the-badge" width="300px" alt="waleed naeem" /></a> </p>
 
 - 🔭 I’m currently working on **Web development & C++**
 
