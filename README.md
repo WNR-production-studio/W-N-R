@@ -1,6 +1,6 @@
 <img src="man-celebrating-new-year-s-eve (2).jpg" style="display: block; margin: auto;" />
 <h1 align="center">Hi 👋, I'm MUHAMMAD WALEED</h1>
-<h2 align="center">An Ardent | Innovative Developer | Proudly Representing PAKISTAN.</h2>
+<h2 align="center">An Ardent | Innovative Developer | Proudly Representing PAKISTAN 🇵🇰.</h2>
 🚀 An innovative and visionary Electrical Engineer whose expertise encompasses robotics, front-end web development, graphic design, video editing, and 3D modeling using Blender 🌀. At the helm of WNR Production Studio, a production house renowned for its creativity and innovation, exceptional logo designs are meticulously crafted through the use of Photoshop 🎨 and Adobe Illustrator ✒️. These logos are developed with precision to establish unique brand identities and captivate audiences.
 
 Proficiency has been acquired in programming languages such as C ⚙️, C++ 🖥️, HTML 🌐, CSS 🎨, and JavaScript 📜 through diligent practice and application. Additionally, tools like Arduino IDE ⚡ and VS Code 💻 are utilized to deliver innovative solutions. Expertise has also been developed in leveraging Microsoft 365 tools, including Excel 📊, Word 📝, PowerPoint 📑, Teams 💬, and Office 🖥️, to create professional and impactful presentations that effectively communicate complex ideas.
