@@ -30,7 +30,7 @@ The journey undertaken in this field is fueled by an unwavering commitment to in
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=w-n-r&label=Profile%20views&color=0c225e&style="color=linear-gradient(45deg, #ff6f61, #de1738) height="60" alt="w-n-r" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=w-n-r" alt="w-n-r" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-w-n-r-trophy"><img src="https://github-profile-trophy.vercel.app/?username=w-n-r&theme=algolia" width="80%" alt="w-n-r" /></a> </p>
 
 <p align="left"> <a href="https://www.instagram.com/w.n.r._.wali._.01/" target="blank"><img src="https://img.shields.io/twitter/follow/waleed naeem?logo=twitter&style=for-the-badge" width="300px" alt="waleed naeem" /></a> </p>
 
