@@ -1,4 +1,4 @@
-<img src="man-celebrating-new-year-s-eve (2).jpg" style="display: block; margin: auto;" />
+<img src="https://github.com/user-attachments/assets/1ddea32a-4d23-42c3-bbff-14c1d021b13c" style="display: block; margin: auto;" />
 <h1 align="center">Hi 👋, I'm MUHAMMAD WALEED</h1>
 <h2 align="center">An Ardent | Innovative Developer | Proudly Representing PAKISTAN 🇵🇰.</h2>
 
