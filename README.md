@@ -20,16 +20,16 @@ That's it.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=w-n-r&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=w-n-r&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="130" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=W-N-R&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="130" alt="languages graph"  />
 </div>
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=w-n-r&label=Profile%20views&color=0c225e&style="color=linear-gradient(45deg, #ff6f61, #de1738) height="60" alt="w-n-r" /> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-w-n-r-trophy"><img src="https://github-profile-trophy.vercel.app/?username=w-n-r&theme=algolia" width="100%" alt="w-n-r" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=W-N-R&label=Profile%20views&color=0c225e&style="color=linear-gradient(45deg, #ff6f61, #de1738) height="60" alt="w-n-r" /> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-W-N-R-trophy"><img src="https://github-profile-trophy.vercel.app/?username=W-N-R&theme=algolia" width="100%" alt="w-n-r" /></a> </p>
 <br>
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=w-n-r" alt="w-n-r" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=W-N-R" alt="w-n-r" /></p>
 </div>
 <h2>To view My Resume Click below:</h2>
 <p align="left"> <a href="CV WALEED_pages-to-jpg-0001.jpg" target="blank"><img  src="https://github.com/user-attachments/assets/7df45925-2969-490b-819d-cab68f41ea92" height="180" alt="wnr"  /></a></p>
