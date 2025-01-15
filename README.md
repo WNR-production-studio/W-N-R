@@ -24,9 +24,7 @@ That's it.
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=W-N-R&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false" height="150" alt="languages graph"  />
 
-<br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-W-N-R-trophy"><img src="https://github-profile-trophy.vercel.app/?username=W-N-R&theme=matrix" width="100%" alt="w-n-r" /></a> </p>
-<br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-W-N-R-trophy"><img src="https://github-profile-trophy.vercel.app/?username=W-N-R&theme=matrix" width="100%" alt="w-n-r" /></a> </p> 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=W-N-R&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
