@@ -34,10 +34,10 @@ That's it.
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=W-N-R&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <p align="left"><h2>To view My Resume Click below:</h2></p>
 <p align="left"> <a href="CV WALEED_pages-to-jpg-0001.jpg" target="blank"><img  src="https://github.com/user-attachments/assets/7df45925-2969-490b-819d-cab68f41ea92" height="180" alt="wnr"  /></a></p>
 <p align="left">This cv shows a little bit about my skills and hobbies.</p>
-
 
 <p align="left"> <a href="https://www.instagram.com/w.n.r._.wali._.01/" target="blank"><img src="https://img.shields.io/twitter/follow/waleed naeem?logo=twitter&style=for-the-badge" width="300px" alt="waleed naeem" /></a> </p>
 
