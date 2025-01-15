@@ -32,6 +32,8 @@ That's it.
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=w-n-r" alt="w-n-r" /></p>
 </div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=W-N-R&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <p align="left"><h2>To view My Resume Click below:</h2></p>
 <p align="left"> <a href="CV WALEED_pages-to-jpg-0001.jpg" target="blank"><img  src="https://github.com/user-attachments/assets/7df45925-2969-490b-819d-cab68f41ea92" height="180" alt="wnr"  /></a></p>
 <p align="left">This cv shows a little bit about my skills and hobbies.</p>
