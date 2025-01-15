@@ -15,6 +15,8 @@ The journey undertaken in this field is fueled by an unwavering commitment to in
 That's it.
 **************
 
+<h2>Statistical figures</h2>
+
 ###
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=W-N-R&label=Profile%20views&color=1fc700&theme=dark" height="60" alt="w-n-r" /> </p>
 <div align="center">
