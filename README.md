@@ -30,7 +30,7 @@ That's it.
 <p align="center"> <a href="https://github.com/ryo-ma/github-W-N-R-trophy"><img src="https://github-profile-trophy.vercel.app/?username=W-N-R&theme=algolia" width="100%" alt="w-n-r" /></a> </p>
 <br>
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=w-n-r" alt="w-n-r" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=w-n-r&color=#1fc700" alt="w-n-r" /></p>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=W-N-R&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
