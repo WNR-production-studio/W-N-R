@@ -18,7 +18,7 @@ That's it.
 <h2>Statistical figures</h2>
 
 ###
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=W-N-R&label=Profile%20views&color=1fc700&theme=dark" height="60" alt="w-n-r" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=W-N-R&label=Profile%20views&color=1fc700&theme=dark" height="45" alt="w-n-r" /> </p>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=w-n-r&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" height="150" alt="stats graph"/>
   
