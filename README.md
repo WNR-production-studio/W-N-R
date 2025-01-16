@@ -19,15 +19,16 @@ That's it.
 
 ###
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=W-N-R&label=Profile%20views&color=1fc700&theme=dark" height="40" alt="w-n-r" /> </p>
-<div align="center">
+
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=w-n-r&theme=chartreuse-dark)](https://git.io/streak-stats)
-  </div>
+<p align="center"> <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com/?user=w-n-r&theme=chartreuse-dark" width="450" /> </a></p>
+  
+ 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=w-n-r&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" height="200" alt="stats graph"/>
+<img src="https://github-readme-stats.vercel.app/api?username=w-n-r&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" height="180" alt="stats graph"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w-n-r&theme=chartreuse-dark&layout=donut" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w-n-r&theme=chartreuse-dark&layout=donut" height="180" alt="languages graph"  />
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-W-N-R-trophy"><img src="https://github-profile-trophy.vercel.app/?username=W-N-R&theme=matrix" width="100%" alt="w-n-r" /></a> </p> 
 
