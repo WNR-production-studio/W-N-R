@@ -25,15 +25,15 @@ That's it.
   </div>
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=w-n-r&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" height="150" alt="stats graph"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=W-N-R&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false" height="150" alt="languages graph"  />
+<img src="https://github-readme-stats.vercel.app/api?username=w-n-r&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" height="200" alt="stats graph"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=w-n-r&theme=chartreuse-dark&layout=donut" height="200" alt="languages graph"  />
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-W-N-R-trophy"><img src="https://github-profile-trophy.vercel.app/?username=W-N-R&theme=matrix" width="100%" alt="w-n-r" /></a> </p> 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=W-N-R&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w-n-r&theme=chartreuse-dark&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 ****************************
 
 <p align="left"><h2>To view My Resume Click below:</h2></p>
