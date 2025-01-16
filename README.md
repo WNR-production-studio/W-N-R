@@ -18,8 +18,13 @@ That's it.
 <h2>Statistical figures</h2>
 
 ###
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=W-N-R&label=Profile%20views&color=1fc700&theme=dark" height="45" alt="w-n-r" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=W-N-R&label=Profile%20views&color=1fc700&theme=dark" height="40" alt="w-n-r" /> </p>
 <div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=w-n-r&theme=chartreuse-dark)](https://git.io/streak-stats)
+  </div>
+<div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=w-n-r&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false" height="150" alt="stats graph"/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=W-N-R&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false" height="150" alt="languages graph"  />
